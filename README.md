@@ -1,6 +1,6 @@
 # pyfomatter
 remove comment , docs 
-
+> a script to remove comment, docs for python
 ```python
 #NOTE HERE
 #NOTE HERE
