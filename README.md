@@ -18,7 +18,7 @@ hello()
 
 to
 
-```
+```python
 print('hello _world')
 
 def hello():
